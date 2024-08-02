@@ -7,12 +7,14 @@ Este repositorio contiene el material de la materia Aprendizaje No Supervisado d
 ### Equipo Docente
 
 - Laura Alonso Alemany
+- Georgina Flesia
 
 ### Clases
 
 | Clase | Filmina | Notebook |
 |-------|---------|----------|
-| | | |
+| 1 | [Introducción a Análisis No Supervisado](./clases/filminas/clase1_intro.pdf) | |
+| 1 | [Introducción al Clustering](./clases/filminas/clase1_intro_clustering.pdf) | |
 
 ### Trabajos Prácticos
 
