@@ -16,6 +16,8 @@ Este repositorio contiene el material de la materia Aprendizaje No Supervisado d
 | 1 | [Introducción a Análisis No Supervisado](./clases/filminas/clase1_intro.pdf) | |
 | 1 | [Introducción al Clustering](./clases/filminas/clase1_intro_clustering.pdf) | [FIFA 2019 - Parte 1](./clases/notebooks/ntb_clustering_1_fifa2019_Colab.ipynb) |
 | 2 | [Clustering - Parte 1](./clases/filminas/clase2_clustering.pdf) y [Clustering - Parte 2](./clases/filminas/clase2_clustering2.pdf) | [FIFA 2019 - Parte 2](./clases/notebooks/ntb_clustering_2_fifa2019_Colab.ipynb) |
+| 3 | [Clustering - Evaluación](./clases/filminas/clase3_evaluacion_de_clustering.pdf) | [FIFA 2019 - Parte 2](./clases/notebooks/ntb_clustering_2_fifa2019_Colab.ipynb) |
+| 3 | [Embeddings](./clases/filminas/clase3_embeddings.pdf) | [FIFA 2019 - Embeddings](./clases/notebooks/ntb_embeddings_fifa2019.ipynb) |
 
 ### Trabajos Prácticos
 
