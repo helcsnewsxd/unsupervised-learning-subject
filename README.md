@@ -1,3 +1,10 @@
+> [!note]
+> This repository contains theoretical content and a practical project for the Unsupervised Learning course of the Data Science Diploma at FAMAF – Universidad Nacional de Córdoba.
+>
+> The final assignment involved an in-depth clustering analysis of a dataset containing attributes of female football players, using unsupervised learning techniques.
+>
+> All materials are in Spanish, as they were created for academic purposes and submission.
+
 # Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2024
 
 ## Aprendizaje No Supervisado
